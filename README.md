@@ -85,18 +85,18 @@ Currently, I'm focused on:
 
 ## 📈 Current Projects
 
-- 🎮 Developing new Minecraft server experiences
-- 🌐 Building community-focused web platforms
-- 🎙️ Producing regular radio programming
-- 🤖 Exploring AI-powered community tools
+- 🎮 Developing new Minecraft server experiences @DepotMC
+- 🌐 Building a multi-factor trip planner @usewayzi
+- 🎙️ Producing regular radio programming at [Tide Radio](https://tideradio.co.uk]
+- 🚝 Creating transparent public transport information @AnyTransport
 
 ---
 
 ## 📫 Connect With Me
 
-- 💬 Discord: `jqckdawson`
-- 📧 Email: `hello@dawson.codes`
-- 💼 LinkedIn: `https://linkedin.com/in/jackadamdawson`
+- [💬 Discord](https://discord.com/users/1311839340816502835)
+- [📧 Email](mailto:hello@dawson.codes)
+- [💼 LinkedIn](https://linkedin.com/in/jackadamdawson)
 
 ---
 
