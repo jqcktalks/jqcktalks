@@ -85,10 +85,10 @@ Currently, I'm focused on:
 
 ## 📈 Current Projects
 
-- 🎮 Developing new Minecraft server experiences @DepotMC
-- 🌐 Building a multi-factor trip planner @usewayzi
+- 🎮 Developing new Minecraft server experiences at [DepotMC](https://depotmc.net)
+- 🌐 Building a multi-factor trip planner at [Wayzi](https://github.com/usewayzi)
 - 🎙️ Producing regular radio programming at [Tide Radio](https://tideradio.co.uk)
-- 🚝 Creating transparent public transport information @AnyTransport
+- 🚝 Creating transparent public transport information at [AnyTransport UK](https://anytransport.co.uk)
 
 ---
 
