@@ -1,43 +1,105 @@
-# Hello!
+<h1 align="center">Hey, I'm Jack 👋</h1>
+
+<p align="center">
+  Community Manager • Full-Stack Developer • Minecraft Creator • Radio Broadcaster
+</p>
+
+<p align="center">
+  Building communities, creating experiences, and bringing ideas to life.
+</p>
+
+---
 
 ## 🚀 About Me
 
-🎓 I am Jack Dawson, a **Front End Web Developer and NodeJS Developer**.
+I'm a UK-based community manager, moderator, broadcaster, and developer with years of experience building and managing online communities.
 
-👨‍💻 In my spare time, I enjoy contributing to different **Open Source** projects. I also like to explore the world of presenting on internet radio stations and making my voice heard across the globe.
+I've been active on Discord since 2016 and have been moderating, managing, and leading communities since 2017. My work spans community operations, Minecraft servers, radio broadcasting, content creation, and web development.
 
-✈️ I love **traveling** around the country, exploring new towns and cities and meeting up with friends.
+Currently, I'm focused on:
 
-## 🛠️ Skills
+- 🎮 Building and launching Minecraft experiences
+- 🌐 Creating modern web platforms and community tools
+- ⚛️ Developing applications with React & Next.js
+- 🎙️ Producing and presenting radio content
+- 🤝 Growing and managing online communities
+- 📢 Marketing, engagement, and community strategy
 
-### Languages
+---
 
-![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![nodejs](https://img.shields.io/badge/NodeJS-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🛠️ Technologies & Tools
 
-### Front-End Development
+### Development
 
-![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript)
+![Node.js](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-black?style=for-the-badge&logo=tailwind-css)
 
+### Platforms & Infrastructure
 
-### Design Tools
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
+![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 
-![adobe-xd](https://img.shields.io/badge/abode_xd-470137?style=for-the-badge&logo=adobe-xd&logoColor=white)
-![figma](https://img.shields.io/badge/figma-000000?style=for-the-badge&logo=figma&logoColor=white)
+### Community & Media
 
-## 📈 Stats
+![Discord](https://img.shields.io/badge/Discord-black?style=for-the-badge&logo=discord)
+![OBS Studio](https://img.shields.io/badge/OBS-black?style=for-the-badge&logo=obs-studio)
+![Adobe Photoshop](https://img.shields.io/badge/Photoshop-black?style=for-the-badge&logo=adobe-photoshop)
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=jqcktalks&show_icons=true&hide_border=true" alt="Jack Dawson's GitHub Stats">
-</div>
+---
 
-## 🔗 Links
+## 🎙️ What I Do
 
-[![portfolio](https://img.shields.io/badge/Portfolio-5340ff?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://jqck.io)
-[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/jqcktalks)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:jackdawson2919@gmail.com)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jqcktalks/)
+### Community Management
+
+- Community growth & engagement
+- Moderation systems
+- Staff team management
+- Event planning
+- User support
+
+### Minecraft
+
+- Server management
+- Gameplay design
+- Community building
+- Marketing & launch strategy
+- Content creation
+
+### Radio & Media
+
+- Radio presenting
+- Show production
+- Audio content creation
+- Graphic design
+- Social media management
+
+---
+
+## 📈 Current Projects
+
+- 🎮 Developing new Minecraft server experiences
+- 🌐 Building community-focused web platforms
+- 🎙️ Producing regular radio programming
+- 🤖 Exploring AI-powered community tools
+
+---
+
+## 📫 Connect With Me
+
+- 💬 Discord: `jqckdawson`
+- 📧 Email: `hello@dawson.codes`
+- 💼 LinkedIn: `https://linkedin.com/in/jackadamdawson`
+
+---
+
+<p align="center">
+  <i>Building communities, creating experiences, and making cool things on the internet.</i>
+</p>
