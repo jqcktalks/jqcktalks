@@ -87,7 +87,7 @@ Currently, I'm focused on:
 
 - 🎮 Developing new Minecraft server experiences @DepotMC
 - 🌐 Building a multi-factor trip planner @usewayzi
-- 🎙️ Producing regular radio programming at [Tide Radio](https://tideradio.co.uk]
+- 🎙️ Producing regular radio programming at [Tide Radio](https://tideradio.co.uk)
 - 🚝 Creating transparent public transport information @AnyTransport
 
 ---
